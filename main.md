@@ -30,6 +30,9 @@ This is a little place where I can make my projects available.
 > - Adam Humeniuk - ahumeniuk@mtroyal.ca
 
 ### One-Dim Substitution Tiling Visualization and Diffraction
+<img width="450" alt="image" src="https://github.com/OrionSehn-personal/blog/assets/46799775/beab5c55-adda-4eff-a263-988424274447">
+
+<img width="450" alt="image" src="https://github.com/OrionSehn-personal/blog/assets/46799775/d91d11f6-9f6f-440f-bbed-4a0bfedbdf17">
 
 > This is a tool used for visualizing one dimensional substitution tilings. The user can define a substitution, and its first few iterations will be displayed as a segment diagram. Also included is the diffraction intensity function and the diffraction pattern of the tiling. Additional key elements of the tiling is also such as the Perron-Frobenius eigenvector, and if the subsitution is pisot. 
 
@@ -46,7 +49,8 @@ This is a little place where I can make my projects available.
 ### Guide to Parallelizing Legacy Applications using Containerization and Azure Batch
 
 > Hosting: [hosted here](https://orionsehn-personal.github.io/BatchGuide/)
+> 
 > Source Code:
-
+> 
 > Collaborators: 
 
