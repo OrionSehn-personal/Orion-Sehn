@@ -7,7 +7,10 @@ I'm a guy who likes to make bad jokes!
 I am also interested in Computational Geometry, aperiodic tilings, pathing algorithms, and DevOps. I currently work for PCL construction as a Data Scientist. My current work focuses on doing graph visualization and path optimization, azure cloud parallelization (Azure Batch), and other fun stuff. 
 
 This is a little place where I can make my projects available. 
-> I'll likely remake this in a more professional format down the road.
+<!-- > I'll likely remake this in a more professional format down the road. -->
+
+## Contact Me
+- Email: orion.sehn@gmail.com
 
 ## Projects - Things I've made
 
@@ -18,22 +21,32 @@ This is a little place where I can make my projects available.
 >
 > 2022
 > 
-> Hosting: https://orionsehn-personal-aperiodicpuzzle-puzzlesite-yy40ro.streamlit.app/
+> Website: [hosted here](https://orionsehn-personal-aperiodicpuzzle-puzzlesite-yy40ro.streamlit.app/)
 > 
 > Source Code: https://github.com/OrionSehn-personal/AperiodicPuzzle
 > 
 > Collaborators: 
-> 
+> - Chris Ramsey - ramseyc5@macewan.ca
+> - Adam Humeniuk - ahumeniuk@mtroyal.ca
 
 ### One-Dim Substitution Tiling Visualization and Diffraction
+
+> This is a tool used for visualizing one dimensional substitution tilings. The user can define a substitution, and its first few iterations will be displayed as a segment diagram. Also included is the diffraction intensity function and the diffraction pattern of the tiling. Additional key elements of the tiling is also such as the Perron-Frobenius eigenvector, and if the subsitution is pisot. 
+
 > 2022
-> Hosting:
-> Source Code:
+> 
+> Website: [hosted here](https://funmaster524-1-dimsubstitutionviewer-streamlit-sub-sx3uuu.streamlit.app/)
+> 
+> Source Code: https://github.com/OrionSehn-personal/1-dimSubstitutionViewer
+> 
 > Collaborators: 
+> - Nicolae Strungaru - strungarun@macewan.ca
+> - Chris Ramsey - ramseyc5@macewan.ca
 
 ### Guide to Parallelizing Legacy Applications using Containerization and Azure Batch
 
-> Hosting:
+> Hosting: [hosted here](https://orionsehn-personal.github.io/BatchGuide/)
 > Source Code:
+
 > Collaborators: 
 
