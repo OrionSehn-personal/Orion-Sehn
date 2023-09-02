@@ -11,6 +11,7 @@ This is a little place where I can make my projects available.
 
 ## Contact Me
 - Email: orion.sehn@gmail.com
+- github: https://github.com/OrionSehn-personal
 
 ## Projects - Things I've made
 
