@@ -48,7 +48,7 @@ This is a little place where I can make my projects available.
 <img height="250" alt="image" src="https://github.com/OrionSehn-personal/blog/assets/46799775/4f1f7c13-a854-4018-afcc-8f0e966888e8">
 
 >
-> A guide to using Microsoft's Azure Batch to parallelize an arbitrary executable, using Docker Containers. This is a cloud computing architecture which enables users to spin up many virtual machines to complete many small tasks over many computers thereby amassing far more computing power than any single device could manage. > 
+> A guide to using Microsoft's Azure Batch to parallelize an arbitrary executable, using Docker Containers. This is a cloud computing architecture which enables users to spin up many virtual machines to complete many small tasks over many computers thereby amassing far more computing power than any single device could manage.
 > 
 > Link: https://orionsehn-personal.github.io/BatchGuide/
 > 
@@ -56,9 +56,9 @@ This is a little place where I can make my projects available.
 > - Brian Gue - BMgue@pcl.com
 
 ### One-Dim Substitution Tiling Visualization and Diffraction - 2020
-<img height="250" alt="image" src="https://github.com/OrionSehn-personal/blog/assets/46799775/beab5c55-adda-4eff-a263-988424274447">
+<img height="230" alt="image" src="https://github.com/OrionSehn-personal/blog/assets/46799775/beab5c55-adda-4eff-a263-988424274447">
 
-<img height="250" alt="image" src="https://github.com/OrionSehn-personal/blog/assets/46799775/d91d11f6-9f6f-440f-bbed-4a0bfedbdf17">
+<img height="230" alt="image" src="https://github.com/OrionSehn-personal/blog/assets/46799775/d91d11f6-9f6f-440f-bbed-4a0bfedbdf17">
 
 > This is a tool used for visualizing one dimensional substitution tilings. The user can define a substitution, and its first few iterations will be displayed as a segment diagram. Also included is the diffraction intensity function and the diffraction pattern of the tiling. Additional key elements of the tiling is also such as the Perron-Frobenius eigenvector, and if the subsitution is pisot.
 > 
