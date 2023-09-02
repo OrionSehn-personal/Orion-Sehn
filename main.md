@@ -10,7 +10,7 @@ This is a little place where I can make my projects available.
 
 ## Contact Me
 - Email: orion.sehn@gmail.com
-- github: https://github.com/OrionSehn-personal
+- github: [https://github.com/OrionSehn-personal](https://github.com/OrionSehn-personal)
 
 ## Projects - Things I've made
 
@@ -22,10 +22,10 @@ This is a little place where I can make my projects available.
 >
 > [1] Likhachev, Maxim, David I. Ferguson, Geoffrey J. Gordon, Anthony Stentz, and Sebastian Thrun. "Anytime dynamic A*: An anytime, replanning algorithm." In ICAPS, vol. 5, pp. 262-271. 2005.
 >
-> Source Code: https://github.com/OrionSehn-personal/networkx/blob/ada_star/networkx/algorithms/shortest_paths/ada_star.py
+> Source Code: [https://github.com/OrionSehn-personal/networkx/blob/ada_star/networkx/algorithms/shortest_paths/ada_star.py](https://github.com/OrionSehn-personal/networkx/blob/ada_star/networkx/algorithms/shortest_paths/ada_star.py)
 > 
 > Collaborators:
-> - NetworkX - https://networkx.org/ 
+> - NetworkX - [https://networkx.org/](https://networkx.org/) 
 > - Dan Schult - dschult@colgate.edu
 > - Brian Gue - BMgue@pcl.com
 
@@ -35,22 +35,22 @@ This is a little place where I can make my projects available.
 
 > This is a study on generating puzzle piece edges as a set of Bezier Curves, parameterizing their shape as an 18 dimensional vector with each component between 0 and 1. The challenge was to maximize the uniqueness of each of these edges by choosing these components to be as different as possible from the rest of the puzzle piece edges. The algorithm is applied to generate puzzles of different types of tiling, square, triangular, and Penrose, although in theory, it could be applied to any set of lines. 
 > 
-> Website: https://orionsehn-personal-aperiodicpuzzle-puzzlesite-yy40ro.streamlit.app/
+> Website: [https://orionsehn-personal-aperiodicpuzzle-puzzlesite-yy40ro.streamlit.app/](https://orionsehn-personal-aperiodicpuzzle-puzzlesite-yy40ro.streamlit.app/)
 > 
-> Source Code: https://github.com/OrionSehn-personal/AperiodicPuzzle
+> Source Code: [https://github.com/OrionSehn-personal/AperiodicPuzzle](https://github.com/OrionSehn-personal/AperiodicPuzzle)
 > 
 > Collaborators: 
 > - Chris Ramsey - ramseyc5@macewan.ca
 > - Adam Humeniuk - ahumeniuk@mtroyal.ca
 
 
+
 ### Guide to Parallelizing Legacy Applications using Containerization and Azure Batch - 2021
 <img height="250" alt="image" src="https://github.com/OrionSehn-personal/blog/assets/46799775/4f1f7c13-a854-4018-afcc-8f0e966888e8">
 
->
 > A guide to using Microsoft's Azure Batch to parallelize an arbitrary executable, using Docker Containers. This is a cloud computing architecture which enables users to spin up many virtual machines to complete many small tasks over many computers thereby amassing far more computing power than any single device could manage.
 > 
-> Link: https://orionsehn-personal.github.io/BatchGuide/
+> Link: [https://orionsehn-personal.github.io/BatchGuide/](https://orionsehn-personal.github.io/BatchGuide/)
 > 
 > Collaborators:
 > - Brian Gue - BMgue@pcl.com
@@ -62,9 +62,9 @@ This is a little place where I can make my projects available.
 
 > This is a tool used for visualizing one dimensional substitution tilings. The user can define a substitution, and its first few iterations will be displayed as a segment diagram. Also included is the diffraction intensity function and the diffraction pattern of the tiling. Additional key elements of the tiling is also such as the Perron-Frobenius eigenvector, and if the subsitution is pisot.
 > 
-> Website: https://funmaster524-1-dimsubstitutionviewer-streamlit-sub-sx3uuu.streamlit.app/
+> Website: [https://funmaster524-1-dimsubstitutionviewer-streamlit-sub-sx3uuu.streamlit.app/](https://funmaster524-1-dimsubstitutionviewer-streamlit-sub-sx3uuu.streamlit.app/)
 > 
-> Source Code: https://github.com/OrionSehn-personal/1-dimSubstitutionViewer
+> Source Code: [https://github.com/OrionSehn-personal/1-dimSubstitutionViewer](https://github.com/OrionSehn-personal/1-dimSubstitutionViewer)
 > 
 > Collaborators: 
 > - Nicolae Strungaru - strungarun@macewan.ca
