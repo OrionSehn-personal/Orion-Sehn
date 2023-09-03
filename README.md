@@ -45,7 +45,7 @@ This is a little place where I can make my projects available.
 
 
 
-### Guide to Parallelizing Legacy Applications using Containerization and Azure Batch - 2021
+### Guide to Parallelizing Legacy Applications using Containerization and Azure Batch - 2022
 <img width="400" alt="image" src="https://github.com/OrionSehn-personal/Orion-Sehn/assets/46799775/8fe8df83-2c87-4871-ba32-7c45c55719b4">
 
 > A guide to using Microsoft's Azure Batch to parallelize an arbitrary executable, using Docker Containers. This is a cloud computing architecture which enables users to spin up many virtual machines to complete many small tasks over many computers thereby amassing far more computing power than any single device could manage.
