@@ -25,7 +25,8 @@ This is a little place where I can make my projects available.
 > Source Code: [https://github.com/OrionSehn-personal/networkx/blob/ada_star/networkx/algorithms/shortest_paths/ada_star.py](https://github.com/OrionSehn-personal/networkx/blob/ada_star/networkx/algorithms/shortest_paths/ada_star.py)
 > 
 > Collaborators:
-> - NetworkX - [https://networkx.org/](https://networkx.org/) 
+> - NetworkX - [https://networkx.org/](https://networkx.org/)
+> - Dana Cobzas - cobzasd@macewan.ca
 > - Dan Schult - dschult@colgate.edu
 > - Brian Gue - BMgue@pcl.com
 
