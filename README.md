@@ -14,6 +14,18 @@ This is a little place where I can make my projects available.
 
 ## Projects - Things I've made
 
+### Blender NetworkX Add-on Early Prototype - 2023
+
+![add_edge](https://github.com/OrionSehn-personal/Orion-Sehn/assets/46799775/2cda9db0-2fd8-4342-bca5-182405b09a2b)
+
+
+> This is a very early prototype of a graph visualization and calculation tool, which I hope someday to make into an open source project. The idea is to combine the ease of use and many algorithms defined in NetworkX, with the blazing fast Visualization and Animation tools of Blender. This would allow users to build and query very large graphs, in context with models associated with their projects.
+> Collaborators:
+> - NetworkX - [https://networkx.org/](https://networkx.org/)
+> - Brian Gue - BMgue@pcl.com
+> - Blender - [https://www.blender.org/](https://www.blender.org/)
+
+
 ### Anytime Dynamic A* - An Anytime Dynamic Planning Algorithm implemented for NetworkX - 2023
 <img width = 525 alt="image" src="https://github.com/OrionSehn-personal/blog/assets/46799775/4ebb7b24-91d8-4a2b-a927-9e7b9fd43d7f">
 
